@@ -1,4 +1,4 @@
-# 🌟 Ronny M - Data Science Portfolio Website
+# 🌟 Faith Githaiga- Data Science Portfolio Website
 
 Welcome to my personal Data Science portfolio website! This platform serves as a central hub where I showcase my background, technical skills, and the projects I’ve worked on as I grow in my journey as a **Junior Data Scientist**.
 
